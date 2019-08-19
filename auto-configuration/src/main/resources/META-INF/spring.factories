@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.xiaowei.autoconfiguration.configuration.HelloWorldAutoConfiguration

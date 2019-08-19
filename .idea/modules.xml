@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/auto-configuration/auto-configuration.iml" filepath="$PROJECT_DIR$/auto-configuration/auto-configuration.iml" />
       <module fileurl="file://$PROJECT_DIR$/servlet/servlet.iml" filepath="$PROJECT_DIR$/servlet/servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-application/spring-application.iml" filepath="$PROJECT_DIR$/spring-application/spring-application.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot.iml" filepath="$PROJECT_DIR$/springboot.iml" />
     </modules>
   </component>

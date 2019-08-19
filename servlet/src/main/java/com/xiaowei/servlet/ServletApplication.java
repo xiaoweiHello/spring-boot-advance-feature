@@ -8,7 +8,7 @@ import org.springframework.boot.web.servlet.ServletComponentScan;
 import org.springframework.context.ConfigurableApplicationContext;
 
 @SpringBootApplication
-@ServletComponentScan(basePackages = "com.xiaowei.servlet.web.servlet")
+@ServletComponentScan(basePackages = "com.xiaowei.servlet.web")
 public class ServletApplication {
 
 	public static void main(String[] args) {

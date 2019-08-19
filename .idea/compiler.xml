@@ -8,12 +8,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="auto-configuration" />
         <module name="servlet" />
+        <module name="spring-application" />
         <module name="springboot" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="auto-configuration" target="1.8" />
       <module name="servlet" target="1.8" />
+      <module name="spring-application" target="1.8" />
       <module name="springboot" target="1.5" />
     </bytecodeTargetLevel>
   </component>

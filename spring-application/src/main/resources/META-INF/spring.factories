@@ -1,0 +1,4 @@
+# Initializers spring容器初始化配置操作
+org.springframework.context.ApplicationContextInitializer=\
+com.xiaowei.springapplication.initializer.AfterHelloWorldApplicationContextInitializer,\
+com.xiaowei.springapplication.initializer.BeforeHelloWorldApplicationContextInitializer
