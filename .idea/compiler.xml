@@ -9,14 +9,20 @@
         <module name="auto-configuration" />
         <module name="servlet" />
         <module name="spring-application" />
-        <module name="springboot" />
+        <module name="spring-webmvc" />
+        <module name="springboot-view-demo" />
+        <module name="springboot-webmvc" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="auto-configuration" target="1.8" />
       <module name="servlet" target="1.8" />
       <module name="spring-application" target="1.8" />
+      <module name="spring-webmvc" target="1.5" />
       <module name="springboot" target="1.5" />
+      <module name="springboot-view" target="1.8" />
+      <module name="springboot-view-demo" target="1.8" />
+      <module name="springboot-webmvc" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
